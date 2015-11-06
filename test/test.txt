@@ -7,3 +7,5 @@ it will be saturday tomorrow
 
 
 i will go to run the marathon of shanghai the day next tomorrow
+
+the update info will be discard when execute the command 'git checkout -- filename
